@@ -1,3 +1,6 @@
 [submodule "zsh-abbr"]
 	path = zsh-abbr
 	url = https://github.com/olets/zsh-abbr
+[submodule "zcomet"]
+	path = zcomet
+	url = https://github.com/agkozak/zcomet
